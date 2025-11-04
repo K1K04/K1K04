@@ -11,7 +11,7 @@
 </p>
 
 - 📚🖥️ Estudie en IES Gonzalo Nazareno [Administracion de Sistemas Operativos en Red(ASIR)](https://dit.gonzalonazareno.org/gestiona/)
-- 🎓​​🔐​ Soy estudiantes en Campus Camara Sevilla .[Máster en FP Ciberseguridad en Entornos de las Tecnologías de la Información]
+- 🎓​​🔐​ Soy estudiantes en Campus Camara Sevilla Máster en FP Ciberseguridad en Entornos de las Tecnologías de la Información
 
 ### Connect with me:
 <p align="left">
