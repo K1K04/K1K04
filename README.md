@@ -10,7 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=k1k04&label=Profile%20views&color=0e75b6&style=flat" alt="k1k04" />
 </p>
 
-- 📚🖥️ Soy estudiante del IES Gonzalo Nazareno [Administracion de Sistemas Operativos en Red(ASIR)](https://dit.gonzalonazareno.org/gestiona/)
+- 📚🖥️ Estudie en IES Gonzalo Nazareno [Administracion de Sistemas Operativos en Red(ASIR)](https://dit.gonzalonazareno.org/gestiona/)
+- 🎓​​🔐​ Soy estudiantes en Campus Camara Sevilla .[Máster en FP Ciberseguridad en Entornos de las Tecnologías de la Información]
 
 ### Connect with me:
 <p align="left">
