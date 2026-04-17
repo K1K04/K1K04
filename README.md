@@ -22,7 +22,7 @@
 ```bash
 $ whoami
 > Francisco Javier Doblado Alonso (Kiko)
-> Localización: Utrera, Andalucía 🇪🇸
+> Localización: Sevilla 🇪🇸
 
 $ cat estudios.txt
 > 🎓 ASIR — IES Gonzalo Nazareno
