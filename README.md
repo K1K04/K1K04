@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=k1k04&label=Profile+views&color=0e75b6&style=flat-square" />
   <a href="https://www.linkedin.com/in/francisco-javier-doblado"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/k1k04"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" /></a>
-  <a href="https://github.com/K1K04"><img src="https://img.shields.io/badge/GitHub-eusakiko-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/K1K04"><img src="https://img.shields.io/badge/GitHub-k1k04-181717?style=flat-square&logo=github" /></a>
 </p>
 
 </div>
