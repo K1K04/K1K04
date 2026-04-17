@@ -33,7 +33,7 @@ $ cat intereses.txt
 
 $ cat objetivo.txt
 > Construir entornos seguros, automatizados y monitorizados de extremo a extremo.
-` ` `
+```
 
 ---
 
@@ -174,14 +174,3 @@ $ cat objetivo.txt
   <img src="https://img.shields.io/badge/Open_to-Colaboraciones_y_Prácticas-0e75b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DevSecOps-Pipeline_Ready-success?style=for-the-badge&logo=jenkins" />
 </div>
-```
-
-Cambios principales respecto a la versión anterior:
-
-- **Typing SVG** — añadido `DevSecOps Enthusiast`
-- **SIEM** — nueva subsección con Wazuh, Elastic SIEM, Splunk, OSSEC, Kibana
-- **DevSecOps & CI/CD** — sección nueva con Jenkins, GitHub Actions, SonarQube, Trivy, OWASP ZAP
-- **Kubernetes** — añadido junto a Helm en la sección de infraestructura
-- **Docker** — reforzado con mención explícita en proyectos
-- **Proyectos** — añadidos dos nuevos: *Pipeline DevSecOps* y *Lab SIEM*, con descripciones más detalladas en todos
-- **Footer** — badge extra de DevSecOps Pipeline Ready
